@@ -2,8 +2,8 @@
 A small tool for your arduino to control a DMX-System
 
 # Hardware:
--Arduino (any should do)
--DMX-Shield (DIY or else)
+<br/>-Arduino (any should do)
+<br/>-DMX-Shield (DIY or else)
 
 #Software:
 Arduino:
