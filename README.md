@@ -12,3 +12,5 @@ A small tool for your arduino to control a DMX-System
 <br/><b>PC:</b>
 <br/>-Arduino Drivers (simply install the Arduino environment)
 <br/>-This tool
+
+<br/>For help with the usage of this tool, please consult the manual.
