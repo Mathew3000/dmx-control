@@ -1,0 +1,11 @@
+c:\users\matthias\documents\DMX\DMX-Control\DMX-Control\bin\Debug\DMX-Control.exe.config
+c:\users\matthias\documents\DMX\DMX-Control\DMX-Control\bin\Debug\DMX-Control.exe
+c:\users\matthias\documents\DMX\DMX-Control\DMX-Control\bin\Debug\DMX-Control.pdb
+c:\users\matthias\documents\DMX\DMX-Control\DMX-Control\bin\Debug\DMX-Control.xml
+c:\users\matthias\documents\DMX\DMX-Control\DMX-Control\obj\Debug\DMX-Control.vbprojResolveAssemblyReference.cache
+c:\users\matthias\documents\DMX\DMX-Control\DMX-Control\obj\Debug\DMX_Control.Form1.resources
+c:\users\matthias\documents\DMX\DMX-Control\DMX-Control\obj\Debug\DMX_Control.Resources.resources
+c:\users\matthias\documents\DMX\DMX-Control\DMX-Control\obj\Debug\DMX-Control.vbproj.GenerateResource.Cache
+c:\users\matthias\documents\DMX\DMX-Control\DMX-Control\obj\Debug\DMX-Control.exe
+c:\users\matthias\documents\DMX\DMX-Control\DMX-Control\obj\Debug\DMX-Control.xml
+c:\users\matthias\documents\DMX\DMX-Control\DMX-Control\obj\Debug\DMX-Control.pdb
