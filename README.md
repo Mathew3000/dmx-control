@@ -1,3 +1,6 @@
+# info
+This branch is deprecated as the original project no longer exists
+
 # dmx-control
 A small tool for your arduino to control a DMX-System
 
