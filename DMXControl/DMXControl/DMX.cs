@@ -158,6 +158,28 @@ namespace DMXControl
         {
             serial.Close();
         }
+        
+        /// <summary>
+        /// Sends a nodes dmx data to the universe
+        /// </summary>
+        /// <param name="node"></param>
+        public void SendNodeData(DMXNode node)
+        {
+            for(int i = 0; i < node.ChannelCount; i++)
+            {
+                SendChannel(i, node.GetChannel(i));
+            }
+        }
+        #endregion
+
+        #region PrivateMember
+        private void SendChannel(int chan, int val)
+        {
+            if(serial.IsOpen)
+            {
+                serial.WriteLine(chan.ToString("D3") + val.ToString("D3"));
+            }
+        }
         #endregion
     }
 }
